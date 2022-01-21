@@ -130,3 +130,6 @@ deepspeaker/samples/
 
 # Sentences
 data/sentences.py
+
+# DB
+*.db
